@@ -4,10 +4,9 @@
 
 > "只有偏执狂才能生存。" —— 安迪·格鲁夫
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/grove-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Panmax/grove-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将安迪·格鲁夫的偏执管理哲学蒸馏为 Claude Code skill，用战略转折点思维和危机意识帮你直面现实、果断行动。**
 
 </div>
@@ -62,12 +61,12 @@ grove-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
-<sub>用格鲁夫的智慧，在偏执中找到穿越转折点的勇气。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
